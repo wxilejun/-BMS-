@@ -7,7 +7,7 @@
 ---
 
 ## 实物效果图
-![1.jpg][https://xlj0.com/usr/uploads/2026/06/124287107.jpg]
+![1.jpg](https://xlj0.com/usr/uploads/2026/06/124287107.jpg)
 
 ## ✨ 功能亮点
 
