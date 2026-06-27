@@ -8,6 +8,8 @@
 
 ## 实物效果图
 ![1.jpg](https://xlj0.com/usr/uploads/2026/06/124287107.jpg)
+![2.jpg](https://xlj0.com/usr/uploads/2026/06/939183079.jpg)
+![3.png](https://xlj0.com/usr/uploads/2026/06/934993665.png)
 
 ## ✨ 功能亮点
 
